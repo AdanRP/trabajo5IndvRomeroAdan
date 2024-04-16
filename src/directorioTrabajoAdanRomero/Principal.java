@@ -7,4 +7,6 @@ public class Principal {
 	 *  
 	 */
 	
+	Clase adan = new Clase();
+	
 }
